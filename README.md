@@ -53,7 +53,7 @@ Aprimorar minhas habilidades em Machine Learning e expandir meu portfólio com p
 
 ## 📬 Como me encontrar
 
-- 🔗 LinkedIn: *adicione seu link aqui*  
+- 🔗 LinkedIn: https://www.linkedin.com/in/alexandre-jose-gatti-pietzak-102445406/
 - 📁 GitHub: https://github.com/alexpietz/  
 
 ---
