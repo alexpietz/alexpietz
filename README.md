@@ -2,7 +2,7 @@
 
 Sou apaixonado por **Data Science**, **Machine Learning** e **Python**, construindo um portfólio sólido com projetos práticos e bem documentados.  
 Meu foco é transformar dados em insights, modelos e soluções reais.
-
+ 
 ---
 
 ## 🚀 O que você vai encontrar aqui
